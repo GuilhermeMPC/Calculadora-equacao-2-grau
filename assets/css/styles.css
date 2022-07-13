@@ -1,0 +1,88 @@
+html {
+    background-color: gray;
+}
+
+body {
+    background: gainsboro ;
+    margin: auto;
+    max-width: 920px;
+    margin-top: 50px;
+    border: 2px solid;
+    padding-bottom: 40px;
+    border-radius: 5%;
+
+}
+
+#title {
+    text-align: center;
+    font-family: Verdana;
+    padding: 20px;
+    
+}
+
+#calculadora {
+    text-align: center;
+    margin: auto;
+}
+
+#send {
+    background-color: white;
+    padding: 15px;
+    border-radius: 25%;
+    margin-top: 20px;
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+form {
+    display: flex;
+    vertical-align: auto;
+    align-items: center;
+    margin-left: 50px;
+
+}
+
+.blocos {
+    margin-left: 40px;
+    padding: 20px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 3%;
+}
+
+.letters {
+    font-weight: bold;
+    font-family: Verdana;
+    padding: 50px;
+}
+
+#subtitle {
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 5px;
+}
+
+#example {
+    font-family: Verdana;
+    margin-top: 1px;
+    margin-bottom: 40px;
+    margin-left: auto;
+}
+
+.input {
+    margin-top: 20px;
+}
+
+#solucao {
+    text-align: center;
+    font-size: large;
+    margin-top: 40px;
+    font-family: Verdana;
+}
+
+#resTitle {
+    text-align: left;
+    margin-left: 140px;
+    margin-bottom: 40px;
+}
